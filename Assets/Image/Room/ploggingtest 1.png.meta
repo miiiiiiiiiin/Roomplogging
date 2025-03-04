@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 16c26aee5a6aae649a6f4c6c421232f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2417784869962515024
+    second: ploggingtest 1_0
+  - first:
+      213: 1689438172539131015
+    second: ploggingtest 1_1
+  - first:
+      213: 6725767056802594122
+    second: ploggingtest 1_2
+  - first:
+      213: -5309457405348437255
+    second: ploggingtest 1_3
+  - first:
+      213: -4610046629734293242
+    second: ploggingtest 1_4
+  - first:
+      213: 8555195590511690619
+    second: ploggingtest 1_5
+  - first:
+      213: 3226345119565890809
+    second: ploggingtest 1_6
+  - first:
+      213: 3702180392254879809
+    second: ploggingtest 1_7
+  - first:
+      213: -1010951773293319713
+    second: ploggingtest 1_8
+  - first:
+      213: 4625316123549265189
+    second: ploggingtest 1_9
+  - first:
+      213: -892088313170898832
+    second: ploggingtest 1_10
+  - first:
+      213: -791472099196858911
+    second: ploggingtest 1_11
+  - first:
+      213: 291378827384525812
+    second: ploggingtest 1_12
+  - first:
+      213: -8698953783473390151
+    second: ploggingtest 1_13
+  - first:
+      213: -1024672106951775749
+    second: ploggingtest 1_14
+  - first:
+      213: 1585211462967053717
+    second: ploggingtest 1_15
+  - first:
+      213: 3439150955819310760
+    second: ploggingtest 1_16
+  - first:
+      213: 1817299335084552776
+    second: ploggingtest 1_17
+  - first:
+      213: 4559417654344654896
+    second: ploggingtest 1_18
+  - first:
+      213: -6294191281355909280
+    second: ploggingtest 1_19
+  - first:
+      213: -1716278037720063733
+    second: ploggingtest 1_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ploggingtest 1_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 226
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0520e6d7782bd8120800000000000000
+      internalID: 2417784869962515024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 220
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7841e202117127710800000000000000
+      internalID: 1689438172539131015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 151
+        width: 136
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60163bce303d500c0800000000000000
+      internalID: -4610046629734293242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9eccbe7b068f1f0800000000000000
+      internalID: -1010951773293319713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 174
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d6a06228c603040800000000000000
+      internalID: 4625316123549265189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 156
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070db29d76aae93f0800000000000000
+      internalID: -892088313170898832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 113
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed0db5b1502405f0800000000000000
+      internalID: -791472099196858911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 119
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf963edc522a7c1f0800000000000000
+      internalID: -1024672106951775749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 139
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d47004d6dcff510800000000000000
+      internalID: 1585211462967053717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 17
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842b446ed18583910800000000000000
+      internalID: 1817299335084552776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 63
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05302bfbf240882458c2c33bac4d6045
+      internalID: 6725767056802594122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0a8cd0d8639e946893bb0a04466c09
+      internalID: -5309457405348437255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ploggingtest 1_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 17
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f932b069eece60a4983f6ec549c50d83
+      internalID: 8555195590511690619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1587d2e71c7aa1f44a3238096a54928f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ploggingtest 1_0: 2417784869962515024
+      ploggingtest 1_1: 1689438172539131015
+      ploggingtest 1_10: -892088313170898832
+      ploggingtest 1_11: -791472099196858911
+      ploggingtest 1_12: 291378827384525812
+      ploggingtest 1_13: -8698953783473390151
+      ploggingtest 1_14: -1024672106951775749
+      ploggingtest 1_15: 1585211462967053717
+      ploggingtest 1_16: 3439150955819310760
+      ploggingtest 1_17: 1817299335084552776
+      ploggingtest 1_18: 4559417654344654896
+      ploggingtest 1_19: -6294191281355909280
+      ploggingtest 1_2: 6725767056802594122
+      ploggingtest 1_20: -1716278037720063733
+      ploggingtest 1_3: -5309457405348437255
+      ploggingtest 1_4: -4610046629734293242
+      ploggingtest 1_5: 8555195590511690619
+      ploggingtest 1_6: 3226345119565890809
+      ploggingtest 1_7: 3702180392254879809
+      ploggingtest 1_8: -1010951773293319713
+      ploggingtest 1_9: 4625316123549265189
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
